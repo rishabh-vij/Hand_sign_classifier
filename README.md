@@ -8,11 +8,17 @@ This notebook contains code to build a model to recognize hand signs from 0-5. A
 ## Dependencies
 
 matplotlib
+
 tensorflow
+
 scipy
+
 PIL
+
 h5py
+
 numpy
+
 Install dependencies using pip Install jupyter notebook using pip
 
 ## Usage
